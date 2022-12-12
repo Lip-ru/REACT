@@ -1,0 +1,12 @@
+.form {
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-bottom: 10px;
+  height: 500px;
+  width: 550px;
+  text-align: center;
+  padding: 20px;
+  background-color: aliceblue;
+  color: crimson;
+  border-radius: 20px;
+}

@@ -1,0 +1,23 @@
+/*footer */
+footer {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  background-color: rgb(8, 116, 147);
+  padding: 30px;
+  justify-items: center;
+  align-items: center;
+}
+
+footer p {
+  color: aliceblue;
+  text-align: right;
+}
+
+footer.logo {
+  color: aqua;
+}
+.logo {
+  color: rgb(224, 248, 252);
+  font-size: 40px;
+  font-weight: bold;
+}
